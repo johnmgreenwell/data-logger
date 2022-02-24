@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ATMEGA328-AU)(type Legacy)(uri ${KIPRJMOD}/Components/ATMEGA328-AU.lib)(options "")(descr ""))
+  (lib (name TP4054-42-SOT25-R)(type Legacy)(uri ${KIPRJMOD}/Components/TP4054-42-SOT25-R.lib)(options "")(descr ""))
+)
